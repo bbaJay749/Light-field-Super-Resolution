@@ -1,6 +1,7 @@
 # Light-field-Super-Resolution
-Light field data Super Resolution, both Angular &amp; Spatial   
-
+Light field data Super Resolution, both Angular &amp; Spatial  
+  
+*****
 VDSR_model.py - to train single image spatial SR network, VDSR.  
 VDSR_gen_SR_image.py - to SR each images of the light field data.  
   
